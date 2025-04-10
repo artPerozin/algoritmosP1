@@ -1,0 +1,8 @@
+1. Definir entradas e tipos de dados
+ex: real x, y
+
+2. Definir saída
+ex: retornar se o número é ímpar ou par
+
+3. definir domínio (problema)
+ex: somar dois inteiros e verificar se o resto da divisão por 2 é igual a 0
