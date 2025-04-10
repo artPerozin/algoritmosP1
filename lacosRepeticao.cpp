@@ -14,6 +14,8 @@ int main () {
     //     i + 1
     // fimEnquanto
 
+    
+
     do{
         cout << "Hello World!" << endl;
         i = i+1;
@@ -23,6 +25,8 @@ int main () {
     //     i + 1
     // enquanto i < 10
 
+
+    
     for (int i = 0; i < 10; i++){
         cout << "Hello World!" << endl;
     }
