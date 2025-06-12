@@ -10,9 +10,6 @@ int main() {
     for (int i = 0; i < 5; i++) {
         printf("Digite o nome da pessoa %d: ", i + 1);
         scanf("%14s", nomes[i]);
-    }
-
-    for (int i = 0; i < 5; i++) {
         printf ("Digite a idade da pessoa %d:", i + 1);
         scanf("%d", &idades[i]);
         soma_idade += idades[i];
